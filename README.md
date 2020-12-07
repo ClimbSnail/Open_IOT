@@ -11,3 +11,6 @@
 3. [IDE](http://docs.dfrobot.com.cn/upycraft/)
 4. [快速开发指南](https://micropython.nxez.com/2019/01/04/esp8266-quick-development-guide.html)
 5. [官方参考文档](https://docs.micropython.org/en/latest/esp8266/quickref.html#pins-and-gpio)
+6. [非官方中文参考文档](docs.dfrobot.com.cn/upycraft/3.2.2%20Pin.html)
+
+
